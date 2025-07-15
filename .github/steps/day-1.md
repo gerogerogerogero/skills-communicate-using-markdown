@@ -1,4 +1,3 @@
-
 # Daily Learnin
 
 ## Morning Planning
